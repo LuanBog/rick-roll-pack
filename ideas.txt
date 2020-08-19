@@ -1,0 +1,20 @@
+Rick roll ideas:
+
+- Casual click and rick roll
+- Right Code rick roll
+- The create rick roll rick roll
+- Delayed rick roll
+- Rick roll with annoying messages
+- Continuous Rick roll
+- Rick roll and shutdown
+
+Fun Ideas:
+
+- Shutdown 
+- Messages
+- Fake Virus
+- Put the right code
+
+: This is not only for rick rolls, the link can be changed by the user using the pack :
+
+: Link can be changed by changing the link variable in the script :
